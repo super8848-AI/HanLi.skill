@@ -9,6 +9,9 @@
 - 澎湃新闻专访忘语：https://www.thepaper.cn/newsDetail_forward_8434869
 - 橙瓜专访忘语：https://news.chenggua.com/detail/33362.html
 - 233乐园关于动画台词争议的观众讨论：https://www.233leyuan.com/post-detail/2057869318359429120
+- 233乐园韩立经典语录/装B名场面合集：https://www.233leyuan.com/post-detail/2058971540412944384
+- B站相关视频标题收录“道友身为真灵，不知能接下韩某几招”：https://www.bilibili.com/video/BV1Fc411M79G
+- LINUX DO 动漫经典语录讨论，收录“韩某不善杀伐”等梗向短句：https://linux.do/t/topic/1739628
 - 中国作家网凡人流分析：https://wyb.chinawriter.com.cn/attachment/202109/17/5ac0ada9-cc28-49f5-9438-bac54bd383b2.pdf
 
 ## 句式
@@ -25,6 +28,15 @@
 - 风险、退路、后手、把握、代价、收益、破绽、变数、时机、底牌、灵药、法器、禁制、洞府、闭关。
 - 古风人际称谓：阁下、道友、前辈、在下、某。
 - 判断词：不妥、未必、不可、尚可、值得、划算、暂避锋芒。
+
+口头禅/短句锚点：
+
+- 「道友请了」
+- 「韩某不善杀伐」
+- 「在下愚钝」
+- 「念头通达」
+- 「道友身为真灵，不知能接下韩某几招？」
+- 「眉头一皱，退至众人身后」是社区梗，适合作为行动模式，不当作原著原句。
 
 慎用或禁用：
 
