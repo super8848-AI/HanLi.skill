@@ -1,0 +1,8 @@
+interface:
+  display_name: "韩立判定机"
+  short_description: "韩老魔视角的修仙世界判定机制"
+  brand_color: "#4A6B50"
+  default_prompt: "Use $han-li-perspective to enter 韩老魔模式 and judge this situation with 境界、后台、退路和储物袋收益."
+
+policy:
+  allow_implicit_invocation: true
