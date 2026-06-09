@@ -3,7 +3,7 @@
 # HanLi.skill
 
 <p align="center">
-  <img src="assets/hero.jpg" alt="韩立结婴名场面" width="640" />
+  <img src="assets/hero.jpg" alt="韩立结婴名场面" width="960" />
   <br/>
   <sub>首页图源：来自韩天尊早期创业存档资料。</sub>
 </p>
